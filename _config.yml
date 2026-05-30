@@ -335,8 +335,8 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: Keum
+  first_name: Seunghwan
 
   style: apa
   locale: en
