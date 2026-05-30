@@ -1,6 +1,6 @@
 ---
 title: "SciML Data Challenge"
-date: 2026-05-29
+date: 2026-03-29
 layout: post
 image: /assets/img/data_pipeline_comparison.jpeg
 thumbnail: /assets/img/data_pipeline_comparison.jpeg
