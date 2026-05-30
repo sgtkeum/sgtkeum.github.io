@@ -3,7 +3,10 @@ title: "SciML Data Challenge"
 date: 2026-05-29
 layout: post
 image: /assets/img/data_pipeline_comparison.jpeg
+thumbnail: /assets/img/data_pipeline_comparison.jpeg
 ---
+
+![Data pipeline comparison](/assets/img/data_pipeline_comparison.jpeg)
 
 Data is the king of any AI and Machine Learning task, but in the world of Scientific Machine Learning (SciML), it acts more like a tyrant. Honestly, I often feel the presence of Sauron in my data farm whenever I start a new project—that heavy, overbearing weight of massive datasets looming over everything.
 
