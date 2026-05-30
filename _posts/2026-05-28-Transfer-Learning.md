@@ -24,7 +24,7 @@ We systematically compared three strategies:
 → Lightweight (Partial) Fine-Tuning
 → Low-Rank Adaptation (LoRA)
 
-The differences were dramatic. Curious which one worked and why the others failed? Check out our preprint: https://lnkd.in/ggmSG9xq (*Spoiler warning: see the figure.*)
+The differences were dramatic. Curious which one worked and why the others failed? Check out our preprint: https://lnkd.in/ggmSG9xq (_Spoiler warning: see the figure._)
 
 Transfer Learning offers a practical path to keeping training data generation to a minimum while maintaining prediction quality. One pretrained backbone, lightweight adapters per vehicle family, trained in 90% less time from 70% less data. And we just took the first step with geometry: think of all the other things we can fine-tune against.
 
