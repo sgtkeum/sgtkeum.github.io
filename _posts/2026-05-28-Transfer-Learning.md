@@ -2,8 +2,8 @@
 title: "Transfer Learning in Scientific Machine Learning"
 date: 2026-05-28
 layout: post
-image: /assets/img/prof_pic.jpg
-thumbnail: /assets/img/prof_pic.jpg
+image: /assets/img/lora.jpg
+thumbnail: /assets/img/lora.jpg
 ---
 
 When training an AI/ML with CAE data, how can we minimize data generation and maximize return with expensive, scarce CAE data? Transfer Learning can be the breakthrough.
