@@ -1,5 +1,5 @@
 ---
-title: "Data Density"
+title: "Scientific Machien Learning: Where are we going to ge all the data?"
 date: 2026-03-07
 layout: post
 #image: /assets/img/data_pipeline_comparison.jpeg

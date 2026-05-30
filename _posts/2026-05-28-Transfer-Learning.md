@@ -1,5 +1,5 @@
 ---
-title: "Transfer Learning in Scientific Machine Learning"
+title: "Transfer Learning in Scientific Machine Learning: A key to the data problem."
 date: 2026-05-28
 layout: post
 image: /assets/img/lora.jpg

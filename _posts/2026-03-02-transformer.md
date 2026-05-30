@@ -1,5 +1,5 @@
 ---
-title: "Transformer"
+title: "Attention is All You Need, in SciML too.: Trends in SciML modeling approaches"
 date: 2026-03-02
 layout: post
 image: /assets/img/transformer.jpeg

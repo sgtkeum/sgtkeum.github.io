@@ -1,5 +1,5 @@
 ---
-title: "SciML Data Challenge"
+title: "The unique challenge in Scientific Machine Learning: Data"
 date: 2026-03-29
 layout: post
 image: /assets/img/data_pipeline_comparison.jpeg
