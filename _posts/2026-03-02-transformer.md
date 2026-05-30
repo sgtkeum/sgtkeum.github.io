@@ -1,9 +1,9 @@
 ---
 title: "Transformer"
-date: 2026-02-20
+date: 2026-03-02
 layout: post
-#image: /assets/img/data_pipeline_comparison.jpeg
-#thumbnail: /assets/img/data_pipeline_comparison.jpeg
+image: /assets/img/transformer.jpeg
+thumbnail: /assets/img/transformer.jpeg
 ---
 
 How can we efficiently process industry level large-scale CFD meshes in Transformer-based SciML without losing critical physical resolution?
