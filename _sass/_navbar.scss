@@ -5,16 +5,23 @@
 @use "variables" as v;
 
 .navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  z-index: 1030;
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  width: 100% !important;
+  z-index: 1030 !important;
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+}
+
+// Main content should respect fixed navbar
+main {
+  margin-top: 56px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .navbar .dropdown-menu,
@@ -193,8 +200,4 @@
   &:hover {
     color: var(--global-hover-color);
   }
-}
-
-body {
-  padding-top: 56px;
 }
