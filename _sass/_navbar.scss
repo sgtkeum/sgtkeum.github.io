@@ -5,6 +5,12 @@
 @use "variables" as v;
 
 .navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 1030;
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
@@ -187,4 +193,8 @@
   &:hover {
     color: var(--global-hover-color);
   }
+}
+
+body {
+  padding-top: 56px;
 }
