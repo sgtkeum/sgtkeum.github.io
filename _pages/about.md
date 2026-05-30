@@ -23,8 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Staff Researcher at General Motors Research & Development, where I work on bridging the gap between machine learning research and industrial engineering practice. My overarching goal is to make Scientific Machine Learning (SciML) a reliable, first-class tool in the day-to-day workflows of computational engineers — not just a research curiosity, but a technology that meaningfully accelerates how we design and develop vehicles.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The promise of SciML in engineering is clear: physics-based simulations are expensive, and data-driven surrogates can dramatically reduce that cost. But realizing this promise in an industrial setting is far harder than it looks. Models need to be trustworthy, not just accurate. They need to generalize across design spaces, remain useful as programs evolve, and fit into existing engineering processes without requiring users to become machine learning experts. These are the challenges I care about most.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I work primarily in the domain of automotive aerodynamics and CFD, where the stakes are high and the simulation costs are real. I am also actively engaged with the broader research community — through collaborative publications, open datasets, and industry consortia — because I believe the path to industrial SciML adoption runs through open science and shared infrastructure.
