@@ -38,6 +38,8 @@ Agentic AI consolidates all of this expertise into a large language model. An in
 
 But "automate" is too weak a word. A script can automate. What makes Agentic AI different is that it _understands context_: it can adapt its process to the problem at hand, apply different strategies for different scenarios, and deliver not just results, but decisions.
 
+{% include figure.liquid path="assets/img/cae-to-aae.png" title="CAE to AAE" class="img-fluid rounded z-depth-1" %}
+
 ---
 
 ## A Signal from the Industry: Mistral AI Acquires Emmi AI
