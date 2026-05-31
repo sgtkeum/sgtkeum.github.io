@@ -2,6 +2,7 @@
 title: "The unique challenge in Scientific Machine Learning: Data"
 date: 2026-03-29
 layout: post
+permalink: /blog/2026/03/29/the-unique-challenge-in-scientific-machine-learning-data/
 image: /assets/img/data_pipeline_comparison.jpeg
 thumbnail: /assets/img/data_pipeline_comparison.jpeg
 ---

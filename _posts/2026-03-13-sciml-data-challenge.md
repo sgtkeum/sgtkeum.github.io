@@ -2,6 +2,7 @@
 title: "Challenges in Applying SciML to Industrial CFD: The Data Bottleneck"
 date: 2026-03-13
 layout: post
+permalink: /blog/2026/03/13/challenges-in-applying-sciml-to-industrial-cfd-the-data-bottleneck/
 #image: /assets/img/data_pipeline_comparison.jpeg
 #thumbnail: /assets/img/data_pipeline_comparison.jpeg
 ---
