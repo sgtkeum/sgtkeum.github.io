@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-17'
 papers:
   KmnyumAAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -30,7 +30,7 @@ papers:
     title: Combustion ignition devices for an internal combustion engine
     year: '2020'
   KmnyumAAAAAJ:5nxA0vEk-isC:
-    citations: 48
+    citations: 49
     title: Role of large scale flow features on cycle-to-cycle variations of spark-ignited flame-initiation and its transition to turbulent combustion
     year: '2019'
   KmnyumAAAAAJ:7PzlFSSx8tAC:
@@ -78,7 +78,7 @@ papers:
     title: Automotive aerodynamics surrogate modeling using NVIDIA PhysicsNeMo on mid-sized SUV GM dataset
     year: '2026'
   KmnyumAAAAAJ:MXK_kJrjxJIC:
-    citations: 25
+    citations: 26
     title: Modeling of a dielectric-barrier discharge-based cold plasma combustion ignition system
     year: '2018'
   KmnyumAAAAAJ:NMxIlDl6LWMC:
@@ -110,7 +110,7 @@ papers:
     title: Effect of parallel computing environment on the solution consistency of CFD simulations-focused on IC engines
     year: '2017'
   KmnyumAAAAAJ:WF5omc3nYNoC:
-    citations: 30
+    citations: 31
     title: Effects of fuel injection parameters on the performance of homogeneous charge compression ignition at low-load conditions
     year: '2016'
   KmnyumAAAAAJ:Wp0gIr-vW9MC:
@@ -174,7 +174,7 @@ papers:
     title: Thermally resilient battery pack
     year: '2024'
   KmnyumAAAAAJ:eQOLeE2rZwMC:
-    citations: 46
+    citations: 47
     title: Assessment of flamelet versus multi-zone combustion modeling approaches for stratified-charge compression ignition engines
     year: '2016'
   KmnyumAAAAAJ:hC7cP41nSMkC:
