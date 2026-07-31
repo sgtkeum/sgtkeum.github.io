@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-31'
 papers:
   KmnyumAAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -206,7 +206,7 @@ papers:
     title: Electric machine with cooling channel loops for stator magnetic poles
     year: '2026'
   KmnyumAAAAAJ:kNdYIx-mwKoC:
-    citations: 6
+    citations: 7
     title: "Damk\xF6hler number analysis on the effect of ozone on autoignition and flame propagation in internal combustion engines"
     year: '2019'
   KmnyumAAAAAJ:k_IJM867U9cC:
@@ -232,7 +232,7 @@ papers:
   KmnyumAAAAAJ:qxL8FJ1GzNcC:
     citations: 0
     title: Yaw stability control system for a motor vehicle
-    year: '2023'
+    year: '2022'
   KmnyumAAAAAJ:r0BpntZqJG4C:
     citations: 0
     title: System and method for performing thermal management
