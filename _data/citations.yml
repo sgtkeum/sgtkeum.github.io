@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-05'
 papers:
   KmnyumAAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -34,7 +34,7 @@ papers:
     title: Role of large scale flow features on cycle-to-cycle variations of spark-ignited flame-initiation and its transition to turbulent combustion
     year: '2019'
   KmnyumAAAAAJ:7PzlFSSx8tAC:
-    citations: 2
+    citations: 3
     title: Oleophobic surface treatments for windage loss reduction and improved heat transfer properties of electric machines
     year: '2023'
   KmnyumAAAAAJ:8k81kl-MbHgC:
@@ -49,6 +49,10 @@ papers:
     citations: 4
     title: Modeling of scalar dissipation rates in flamelet models for HCCI engine simulation
     year: '2012'
+  KmnyumAAAAAJ:BqipwSGYUEgC:
+    citations: 0
+    title: 1 Modeling of Scalar Dissipation Rates in Flamelet Models for HCCI Engine Simulation
+    year: '2016'
   KmnyumAAAAAJ:HDshCWvjkbEC:
     citations: 0
     title: Charge port cooling system for an electric vehicle
@@ -66,7 +70,7 @@ papers:
     title: Vent gas diverter for rechargeable energy storage system of vehicle
     year: '2026'
   KmnyumAAAAAJ:KlAtU1dfN6UC:
-    citations: 22
+    citations: 23
     title: Large eddy simulations with conjugate heat transfer (CHT) modeling of internal combustion engines (ICEs)
     year: '2019'
   KmnyumAAAAAJ:L8Ckcad2t8MC:
@@ -78,12 +82,12 @@ papers:
     title: Automotive aerodynamics surrogate modeling using NVIDIA PhysicsNeMo on mid-sized SUV GM dataset
     year: '2026'
   KmnyumAAAAAJ:MXK_kJrjxJIC:
-    citations: 26
+    citations: 25
     title: Modeling of a dielectric-barrier discharge-based cold plasma combustion ignition system
     year: '2018'
   KmnyumAAAAAJ:NMxIlDl6LWMC:
-    citations: 0
-    title: Adapting Automotive Aerodynamics Surrogates to New Vehicle Families via Transfer Learning
+    citations: 1
+    title: Adapting automotive aerodynamics surrogates to new vehicle families via transfer learning
     year: '2026'
   KmnyumAAAAAJ:QIV2ME_5wuYC:
     citations: 0
@@ -92,7 +96,7 @@ papers:
   KmnyumAAAAAJ:R3hNpaxXUhUC:
     citations: 0
     title: Thermal runaway mitigation system for a rechargeable energy storage system arranged in a vehicle
-    year: '2025'
+    year: '2024'
   KmnyumAAAAAJ:RHpTSmoSYBkC:
     citations: 0
     title: Rechargeable energy storage system including energy storage cells having an internal cooling structure
@@ -102,21 +106,21 @@ papers:
     title: Topology Optimization of EV Battery Immersion Cooling Channel
     year: '2025'
   KmnyumAAAAAJ:TQgYirikUcIC:
-    citations: 2
+    citations: 0
     title: Charge port cooling system for an electric vehicle
     year: '2026'
   KmnyumAAAAAJ:UebtZRa9Y70C:
     citations: 2
-    title: Effect of parallel computing environment on the solution consistency of CFD simulations-focused on IC engines
+    title: "Effect of Parallel Computing Environment on the Solution Consistency of CFD Simulations\u2014Focused on IC Engines"
     year: '2017'
   KmnyumAAAAAJ:WF5omc3nYNoC:
-    citations: 31
+    citations: 30
     title: Effects of fuel injection parameters on the performance of homogeneous charge compression ignition at low-load conditions
     year: '2016'
   KmnyumAAAAAJ:Wp0gIr-vW9MC:
     citations: 0
     title: Systems, apparatuses, and methods for active end-turn cooling for an electric motor with four-bar linkages
-    year: '2024'
+    year: '2023'
   KmnyumAAAAAJ:Y0pCki6q_DkC:
     citations: 3
     title: Modeling of scalar dissipation rates in flamelet models for low temperature combustion engine simulations
@@ -134,7 +138,7 @@ papers:
     title: Electric motor rotor with conformal heat pipes
     year: '2024'
   KmnyumAAAAAJ:Zph67rFs4hoC:
-    citations: 25
+    citations: 24
     title: A semi-empirical laminar-to-turbulent flame transition model coupled with G equation for early flame kernel development and combustion in spark-ignition engines
     year: '2021'
   KmnyumAAAAAJ:_FxGoFyzp5QC:
@@ -152,7 +156,7 @@ papers:
   KmnyumAAAAAJ:aqlVkmm33-oC:
     citations: 1
     title: Interior permanent magnet motor having controllable coolant distribution
-    year: '2023'
+    year: '2022'
   KmnyumAAAAAJ:bEWYMUwI8FkC:
     citations: 0
     title: Battery pack with direct cooling channels
@@ -163,7 +167,7 @@ papers:
     year: '2022'
   KmnyumAAAAAJ:d1gkVwhDpl0C:
     citations: 9
-    title: An improved representative interactive flamelet model accounting for evaporation effect in reaction space (rif-er)
+    title: An Improved Representative Interactive Flamelet Model Accounting for Evaporation Effect in Reaction Space (RIF-ER).
     year: '2009'
   KmnyumAAAAAJ:dhFuZR0502QC:
     citations: 0
@@ -182,7 +186,7 @@ papers:
     title: Axial flux electric machine including cooling fins projecting from casing to spaces between windings on stator cores
     year: '2025'
   KmnyumAAAAAJ:hFOr9nPyWt4C:
-    citations: 1
+    citations: 0
     title: Thermal bridge for an electric machine
     year: '2025'
   KmnyumAAAAAJ:hMod-77fHWUC:
@@ -218,9 +222,9 @@ papers:
     title: Thermal connection system for a stator core of an axial flux electric motor
     year: '2025'
   KmnyumAAAAAJ:mVmsd5A6BfQC:
-    citations: 0
+    citations: 6
     title: Oleophilic surface treatments for enhanced heat-transfer characteristics of electric machines
-    year: '2024'
+    year: '2023'
   KmnyumAAAAAJ:maZDTaKrznsC:
     citations: 0
     title: Battery fire prevention device using catalytic conversion with an oxygen supply
@@ -246,7 +250,7 @@ papers:
     title: Modelling of heat transfer in internal combustion engines with variable density effect
     year: '2011'
   KmnyumAAAAAJ:u5HHmVD_uO8C:
-    citations: 41
+    citations: 43
     title: An extended multi-zone combustion model for PCI simulation
     year: '2011'
   KmnyumAAAAAJ:zYLM7Y9cAGgC:
