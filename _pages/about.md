@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: General Motors Research and Development Warren, MI.
+subtitle: Senior Technical Marketing Engineer - Physics AI
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Staff Researcher at General Motors Research & Development, where I work on bridging the gap between machine learning research and industrial engineering practice. My overarching goal is to make Scientific Machine Learning (SciML) a reliable, first-class tool in the day-to-day workflows of computational engineers — not just a research curiosity, but a technology that meaningfully accelerates how we design and develop vehicles.
+I am a Senior Technical Marketing Engineer - Physics AI, where I work on bridging the gap between machine learning research and industrial engineering practice. My overarching goal is to make Scientific Machine Learning (SciML) a reliable, first-class tool in the day-to-day workflows of computational engineers — not just a research curiosity, but a technology that meaningfully accelerates how we design and develop vehicles.
 
 The promise of SciML in engineering is clear: physics-based simulations are expensive, and data-driven surrogates can dramatically reduce that cost. But realizing this promise in an industrial setting is far harder than it looks. Models need to be trustworthy, not just accurate. They need to generalize across design spaces, remain useful as programs evolve, and fit into existing engineering processes without requiring users to become machine learning experts. These are the challenges I care about most.
 
