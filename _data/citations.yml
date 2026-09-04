@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-09-04'
 papers:
   KmnyumAAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -134,7 +134,7 @@ papers:
     title: Effect of valve opening/closing setup on cfd prediction of engine flows
     year: '2015'
   KmnyumAAAAAJ:ZeXyd9-uunAC:
-    citations: 2
+    citations: 3
     title: Electric motor rotor with conformal heat pipes
     year: '2024'
   KmnyumAAAAAJ:Zph67rFs4hoC:
@@ -246,7 +246,7 @@ papers:
     title: A skeletal iso-octane reaction mechanism for low temperature plasma ignition with ozone surrogate
     year: '2017'
   KmnyumAAAAAJ:u-x6o8ySG0sC:
-    citations: 19
+    citations: 20
     title: Modelling of heat transfer in internal combustion engines with variable density effect
     year: '2011'
   KmnyumAAAAAJ:u5HHmVD_uO8C:
